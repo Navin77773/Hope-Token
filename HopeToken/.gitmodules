@@ -1,8 +1,0 @@
-[submodule "lib/forge-std"]
-	path = lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-
-[submodule "contracts/token/ERC20"]
-    path = contracts/token/ERC20
-    url = https://github.com/contracts/token/ERC20
-
